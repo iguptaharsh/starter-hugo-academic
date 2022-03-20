@@ -1,7 +1,7 @@
 ---
 title: Harsh Gupta
 role: Masters of Business Administration, IIM Raipur, Marketing and Strategy
-avatar_filename: harsh-passport.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
