@@ -1,6 +1,7 @@
 ---
 title: Harsh Gupta
-role: Masters of Business Administration, IIM Raipur, Marketing and Strategy
+role: P.H.D in Psychology, Stanford University, Masters of Business
+  Administration, IIM Raipur, Marketing and Strategy
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
