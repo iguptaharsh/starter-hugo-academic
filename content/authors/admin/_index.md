@@ -1,6 +1,6 @@
 ---
 title: Harsh Gupta
-role: Professor of Artificial Intelligence
+role: Masters of Business Administration, IIM Raipur, Marketing and Strategy
 avatar_filename: harsh-passport.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
