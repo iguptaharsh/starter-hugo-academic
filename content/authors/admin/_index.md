@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Digital Marketing
   - Performance Marketing
-  - Social Marketing
+  - Social Media Marketing
   - Strategic Management
   - Artificial Intelligence
   - Design Thinking
