@@ -1,7 +1,6 @@
 ---
 title: Harsh Gupta
-role: Executive MBA in Strategy, AI & Design Thinking, Indian Institute Of
-  Management, Raipur
+role: MBA in Marketing and Strategy, Indian Institute Of Management, Raipur
 avatar_filename: ""
 bio: ""
 interests:
