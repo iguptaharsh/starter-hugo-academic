@@ -27,7 +27,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/iharshgupta
 organizations:
-  - name: harshgupta.digital
+  - name: "Links: harshgupta.digital"
     url: https://linktr.ee/iharshgupta
 education:
   courses:
