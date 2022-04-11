@@ -1,7 +1,7 @@
 ---
 title: Harsh Gupta
 role: MBA in Marketing and Strategy, Indian Institute Of Management, Raipur
-avatar_filename: ""
+avatar_filename: harsh-passport.jpg
 bio: ""
 interests:
   - Digital Marketing
