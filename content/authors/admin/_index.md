@@ -7,7 +7,7 @@ interests:
   - Digital Marketing
   - Strategic Management
   - Artificial Intelligence
-  - DesignThinking
+  - Design Thinking
 social:
   - icon: envelope
     icon_pack: fas
