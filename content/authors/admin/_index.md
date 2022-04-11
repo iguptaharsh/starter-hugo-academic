@@ -16,7 +16,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/iharshgupta
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -25,7 +25,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/iharshgupta
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
