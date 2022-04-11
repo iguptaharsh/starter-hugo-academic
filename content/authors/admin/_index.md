@@ -41,11 +41,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Executive MBA, Indian Institute Of Management, Raipur (Strategy, AI & Design Thinking)**
+**Executive MBA in Strategy, AI & Design Thinking, Indian Institute Of Management, Raipur**
 
-**MBA, IFMR Graduate School Of Business, Krea University (Marketing)**
+**MBA in Marketing, IFMR Graduate School Of Business, Krea University**
 
-**B. COM (H.), St. Xavier's College, Kolkata**
+**B. COM (H) in Marketing Management, St. Xavier's College, Kolkata**
 
 His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
