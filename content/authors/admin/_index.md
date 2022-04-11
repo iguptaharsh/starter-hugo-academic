@@ -14,15 +14,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/iharshgupta
   - icon: graduation-cap
     icon_pack: fas
     link: https://www.iimraipur.ac.in/
-  - icon: github
+  - icon: twitter
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/iharshgupta
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/iharshgupta
