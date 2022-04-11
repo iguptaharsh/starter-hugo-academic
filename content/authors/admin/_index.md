@@ -1,6 +1,9 @@
 ---
 title: Harsh Gupta
-role: He is a marketer and strategist by profession and entrepreneur from heart.
+role: "**Executive MBA in Strategy, AI & Design Thinking, Indian Institute Of
+  Management, Raipur**  **MBA in Marketing, IFMR Graduate School Of Business,
+  Krea University**  **B. COM (H) in Marketing Management, St. Xavier's College,
+  Kolkata**"
 avatar_filename: ""
 bio: ""
 interests:
@@ -41,11 +44,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Executive MBA in Strategy, AI & Design Thinking, Indian Institute Of Management, Raipur**
-
-**MBA in Marketing, IFMR Graduate School Of Business, Krea University**
-
-**B. COM (H) in Marketing Management, St. Xavier's College, Kolkata**
+He is a marketer and strategist by profession and entrepreneur from heart.
 
 His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
