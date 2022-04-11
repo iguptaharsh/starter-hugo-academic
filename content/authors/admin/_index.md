@@ -1,9 +1,7 @@
 ---
 title: Harsh Gupta
-role: "**Executive MBA in Strategy, AI & Design Thinking, Indian Institute Of
-  Management, Raipur**  **MBA in Marketing, IFMR Graduate School Of Business,
-  Krea University**  **B. COM (H) in Marketing Management, St. Xavier's College,
-  Kolkata**"
+role: Executive MBA in Strategy, AI & Design Thinking, Indian Institute Of
+  Management, Raipur
 avatar_filename: ""
 bio: ""
 interests:
