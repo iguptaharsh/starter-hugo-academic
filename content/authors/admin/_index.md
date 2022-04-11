@@ -5,6 +5,8 @@ avatar_filename: ""
 bio: ""
 interests:
   - Digital Marketing
+  - Performance Marketing
+  - Social Marketing
   - Strategic Management
   - Artificial Intelligence
   - Design Thinking
