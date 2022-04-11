@@ -27,8 +27,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/iharshgupta
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: harshgupta.digital
+    url: https://linktr.ee/iharshgupta
 education:
   courses:
     - course: EPGP in Strategy, AI & Design Thinking
