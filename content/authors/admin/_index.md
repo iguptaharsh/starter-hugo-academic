@@ -1,10 +1,8 @@
 ---
 title: Harsh Gupta
-role: P.H.D in Psychology, Stanford University, Masters of Business
-  Administration, IIM Raipur, Marketing and Strategy
+role: He is a marketer and strategist by profession and entrepreneur from heart.
 avatar_filename: ""
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -43,9 +41,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Harsh Gupta is a marketer and strategist by profession and entrepreneur from heart. 
+**Executive MBA, Indian Institute Of Management, Raipur (Strategy, AI & Design Thinking)**
 
+**MBA, IFMR Graduate School Of Business, Krea University (Marketing)**
 
+**B. COM (H.), St. Xavier's College, Kolkata**
 
 His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
