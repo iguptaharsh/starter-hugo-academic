@@ -4,9 +4,10 @@ role: MBA in Marketing and Strategy, Indian Institute Of Management, Raipur
 avatar_filename: ""
 bio: ""
 interests:
+  - Digital Marketing
+  - Strategic Management
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DesignThinking
 social:
   - icon: envelope
     icon_pack: fas
