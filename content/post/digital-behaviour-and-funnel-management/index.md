@@ -7,7 +7,7 @@ draft: false
 featured: false
 image:
   filename: harshgupta.digital.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
 <!--StartFragment-->
