@@ -1,15 +1,17 @@
 ---
-title: Digital Behaviour and Funnel Management
+title: Digital Behaviour and Customer Journey Management
 subtitle: ""
 date: 2022-08-28T07:06:49.005Z
 summary: ""
 draft: false
 featured: false
 image:
-  filename: harshgupta.digital.jpg
+  filename: ""
   focal_point: ""
   preview_only: false
 ---
+![harshgupta.digital/digital-journey](harshgupta.digital.jpg)
+
 <!--StartFragment-->
 
 According to Google, the traditional digital marketing funnel doesn’t work — at least, not anymore. Instead of following a linear path towards purchasing a product or service, users are taking unique, one-of-a-kind journeys.
